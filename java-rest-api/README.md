@@ -2,8 +2,6 @@
 # qa20252
 Repositório com os códigos da turma de Qualidade de Software.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c58dd8-4b44-4697-bbef-0bdbc17cb7f1" />
-<img width="1471" height="881" alt="image" src="https://github.com/user-attachments/assets/03412eed-6a6a-4b10-8730-13ff49775703" />
 =======
 # Java REST API
 
