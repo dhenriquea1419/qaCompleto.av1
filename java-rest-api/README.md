@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+# qa20252
+Repositório com os códigos da turma de Qualidade de Software.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c58dd8-4b44-4697-bbef-0bdbc17cb7f1" />
+<img width="1471" height="881" alt="image" src="https://github.com/user-attachments/assets/03412eed-6a6a-4b10-8730-13ff49775703" />
+=======
 # Java REST API
 
 Este projeto é uma API REST simples em Java, desenvolvida com Spring Boot. Ele disponibiliza endpoints para gerenciar itens e oferece suporte a respostas nos formatos JSON e XML.
@@ -87,5 +94,6 @@ Isso executará os testes definidos em `ApiControllerTest.java`, os quais verifi
 ## Documentação completa dos testes unitários
 
 Focar em testes é o que diferencia um código que "funciona agora" de um código robusto e confiável a longo prazo. É uma das habilidades mais importantes para um desenvolvedor.
+>>>>>>> edd7ccd (Av1 Testes)
 
 
